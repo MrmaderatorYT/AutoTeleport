@@ -1,0 +1,3 @@
+name: autoteleport
+version: '${project.version}'
+main: com.test.Autoteleport
